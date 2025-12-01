@@ -1,0 +1,17 @@
+# Env files
+.env
+server/.env
+client/.env
+
+# Node modules
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Builds
+dist/
+build/
+.vite/
+
+# OS files
+.DS_Store
